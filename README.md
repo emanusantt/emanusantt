@@ -2,9 +2,9 @@
 
 # Hi, I'm Emanuelly Santiago 👋
 
-### Information Systems Student • Aspiring SOC Analyst • Blue Team
+### Information Systems Student | Cybersecurity Enthusiast | Blue Team Learner 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Blue+Team+Enthusiast;Learning+Cybersecurity+Every+Day;Future+SOC+Analyst;Linux+%7C+Networking+%7C+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Learning+Cybersecurity+Every+Day;Exploring+Blue+Team+Concepts;Information+Systems+Student" />
 
 </div>
 
