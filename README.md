@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Emanuelly Santiago
+# Hi, I'm Emanuelly Santiago 👋
 
 ### Information Systems Student • Aspiring SOC Analyst • Blue Team
 
@@ -15,22 +15,17 @@
 │ STATUS                                                       │
 ├──────────────────────────────────────────────────────────────┤
 │ Name........: Emanuelly Santiago                             │
-│ Location....: Brazil 🇧🇷                                     │
+│ Location....: Brazil                                         │
 │ Role........: Information Systems Student                    │
 │ Focus.......: SOC • Blue Team • Incident Response            │
-│ Goal........: Become a Cybersecurity Analyst                 │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 👩‍💻 About Me
-
-Hello!
+# About Me
 
 I'm an Information Systems student passionate about Cybersecurity.
-
-Currently building practical experience through labs, documentation and hands-on projects.
 
 My interests include:
 
@@ -58,43 +53,15 @@ My interests include:
 
 ✔ Networking
 
-✔ Windows Security
-
 ---
 
 # 🛠️ Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,windows,bash,git,github,vscode,cs,dotnet"/>
+<img src="https://skillicons.dev/icons?i=python,linux,windows,git,github,vscode,cs,dotnet"/>
 
 </p>
-
----
-
-# 🎯 2026 Goals
-
-- [x] Cisco Introduction to Cybersecurity
-
-- [x] SOC Fundamentals
-
-- [x] Introduction to Offensive Security
-
-- [ ] Linux Fundamentals
-
-- [ ] Windows Fundamentals
-
-- [ ] Build Home Lab
-
-- [ ] Learn Wazuh
-
-- [ ] Learn Wireshark
-
-- [ ] Learn Splunk
-
-- [ ] Create Incident Reports
-
-- [ ] Build Cybersecurity Portfolio
 
 ---
 
@@ -118,16 +85,6 @@ My interests include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=emanusantt&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanusantt&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=emanusantt&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
@@ -144,12 +101,12 @@ My interests include:
 
 </p>
 
-📧 **emanuellysantiago514@gmail.com**
+e-mai,: **emanuellysantiago514@gmail.com**
 
 ---
 
 <div align="center">
 
-> **"Security is a continuous process, not a final destination."**
+> **"Stay hungry, stay foolish."**
 
 </div>
