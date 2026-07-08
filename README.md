@@ -101,7 +101,7 @@ My interests include:
 
 </p>
 
-e-mai,: **emanuellysantiago514@gmail.com**
+e-mail: **emanuellysantiago514@gmail.com**
 
 ---
 
