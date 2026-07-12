@@ -14,86 +14,52 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I'm an Information Systems student passionate about technology and data.
 
 Currently, I'm building my knowledge in:
 
-- 📊 Data Analytics
-- 🐍 Python
-- 🗄️ SQL
-- 📈 Power BI
-- 📑 Excel
-- 📚 Statistics
+- Data Analytics
+- Python
+- SQL
+- Power BI
+- Excel
+- Statistics
 
 I enjoy solving problems, learning new technologies, and developing projects that strengthen my analytical skills.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" /><br><br>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
 
-```text
-✔ Python Fundamentals
+# Featured Projects
 
-✔ SQL
+Data Analysis Projects
 
-✔ Excel
+Power BI Dashboards
 
-✔ Power BI
+SQL Practice
 
-✔ Data Analysis
+Python Projects
 
-⬜ Machine Learning
-```
+Excel Dashboards
+
 
 ---
 
-# 🚀 Goals for 2026
-
-- Build a strong Data Analytics portfolio
-
-- Improve Python skills
-
-- Master SQL
-
-- Create Power BI dashboards
-
-- Develop real-world data projects
-
----
-
-# 📂 Featured Projects
-
-📊 Data Analysis Projects
-
-📈 Power BI Dashboards
-
-🗄 SQL Practice
-
-🐍 Python Projects
-
-📑 Excel Dashboards
-
-*(Coming soon...)*
-
----
-
-# 🌎 Connect with Me
+# Connect with Me
 
 <p align="center">
 
