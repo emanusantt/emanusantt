@@ -21,11 +21,10 @@
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
@@ -35,8 +34,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=emanusantt&show_icons=true&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=emanusantt&show_icons=true&theme=tokyonight"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanusantt&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
