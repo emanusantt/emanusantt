@@ -43,18 +43,13 @@ I enjoy solving problems, learning new technologies, and developing projects tha
 
 ---
 
+# 📂 Featured Projects
 
-# Featured Projects
-
-Data Analysis Projects
-
-Power BI Dashboards
-
-SQL Practice
-
-Python Projects
-
-Excel Dashboards
+- 🐍 [Python Fundamentals](https://github.com/emanusantt/python-fundamentals)
+- 🗄️ [SQL Practice](https://github.com/emanusantt/sql-practice)
+- 📊 [Data Analysis with Python](https://github.com/emanusantt/data-analysis-python)
+- 📈 [Power BI Projects](https://github.com/emanusantt/powerbi-projects)
+- 📑 [Excel Projects](https://github.com/emanusantt/excel-projects)
 
 
 ---
@@ -80,6 +75,5 @@ Excel Dashboards
 ### 💡 Favorite Quote
 
 *"Stay hungry, stay foolish."*
-
 
 </div>
