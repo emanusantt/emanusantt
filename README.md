@@ -2,7 +2,7 @@
 
 # Hi, I'm Emanuelly 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Learning+Data+Analytics;Python+%7C+SQL+%7C+Power+BI;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Always+Learning" />
 
 <p>
 <img src="https://img.shields.io/badge/Student-PUC%20Minas-blue?style=for-the-badge"/>
@@ -26,31 +26,6 @@ Currently, I'm building my knowledge in:
 - Power BI
 - Excel
 - Statistics
-
-I enjoy solving problems, learning new technologies, and developing projects that strengthen my analytical skills.
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" /><br><br>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-- 🐍 [Python Fundamentals](https://github.com/emanusantt/python-fundamentals)
-- 🗄️ [SQL Practice](https://github.com/emanusantt/sql-practice)
-- 📊 [Data Analysis with Python](https://github.com/emanusantt/data-analysis-python)
-- 📈 [Power BI Projects](https://github.com/emanusantt/powerbi-projects)
-- 📑 [Excel Projects](https://github.com/emanusantt/excel-projects)
-
 
 ---
 
